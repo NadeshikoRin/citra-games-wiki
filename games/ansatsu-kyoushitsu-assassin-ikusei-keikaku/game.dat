@@ -1,0 +1,9 @@
+title = "Ansatsu Kyoushitsu: Assassin Ikusei Keikaku!!"
+description = "This game is an Action game, developed and published by Bandai Namco Games, which was released in Japan in 2016."
+needs_system_files = true
+needs_shared_font = true
+
+[[releases]]
+title = "000400000017D700"
+region = "jpn"
+release_date = "2016-03-24"
